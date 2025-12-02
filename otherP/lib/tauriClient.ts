@@ -14,6 +14,7 @@ export type Todo = {
 	fromPlanId?: string;
 };
 
+
 export type Plan = {
 	id: string;
 	title: string;
