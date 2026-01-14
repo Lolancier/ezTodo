@@ -28,3 +28,11 @@ dist-ssr
 src-tauri/target/
 otherP/.next/
 otherP/out/
+
+#AI API
+.env*.local
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env
