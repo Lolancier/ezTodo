@@ -1,0 +1,4 @@
+# 忽略数据文件变化
+eztodo/
+*.json
+target/
